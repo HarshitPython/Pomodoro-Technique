@@ -1,1 +1,1 @@
-# Pomodoro-Technique
+# PomodoroTechnique
