@@ -20,7 +20,7 @@ def reset_timer():
     canvas.itemconfig(timer_text,text="00:00")
     tick_label.config(text="")
 
-#     global reps
+    global reps
 #     reps = 0
 
 # # ---------------------------- TIMER MECHANISM ------------------------------- # 
