@@ -21,7 +21,7 @@ def reset_timer():
     tick_label.config(text="")
 
     global reps
-#     reps = 0
+    reps = 0
 
 # # ---------------------------- TIMER MECHANISM ------------------------------- # 
 
