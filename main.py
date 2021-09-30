@@ -26,7 +26,7 @@ def reset_timer():
 # ---------------------------- TIMER MECHANISM ------------------------------- # 
 
 def start_timer():
-#     global reps
+    global reps
 #     reps += 1
 
 #     work_sec = WORK_MIN * 60    
