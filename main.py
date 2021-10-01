@@ -46,7 +46,7 @@ def start_timer():
         title_label.config(text="Work",fg=GREEN)
         
 
-# # ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
+# ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
 
 # def count_down(count):
 
