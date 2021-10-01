@@ -42,7 +42,7 @@ def start_timer():
         title_label.config(text="Break",fg=PINK)
         
     else:
-#         count_down(work_sec)
+        count_down(work_sec)
 #         title_label.config(text="Work",fg=GREEN)
         
 
