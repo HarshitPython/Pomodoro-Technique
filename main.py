@@ -38,7 +38,7 @@ def start_timer():
         title_label.config(text="Break",fg=RED)
         
     elif reps % 2 == 0:
-#         count_down(short_break_sec)
+        count_down(short_break_sec)
 #         title_label.config(text="Break",fg=PINK)
         
 #     else:
