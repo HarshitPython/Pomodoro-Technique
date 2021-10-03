@@ -65,7 +65,7 @@ def count_down(count):
         marks = ""
         work_sessions = math.floor(reps/2)
         for _ in range(work_sessions):
-#             marks += "✔"
+            marks += "✔"
 #         tick_label.config(text=marks)
 # # ---------------------------- UI SETUP ------------------------------- #
 
