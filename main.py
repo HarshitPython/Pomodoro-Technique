@@ -1,6 +1,8 @@
 from tkinter import *
 import math
+
 # ---------------------------- CONSTANTS ------------------------------- #
+
 PINK = "#e2979c"
 RED = "#e7305b"
 GREEN = "#9bdeac"
@@ -67,6 +69,7 @@ def count_down(count):
         for _ in range(work_sessions):
             marks += "✔"
         tick_label.config(text=marks)
+        
 # # ---------------------------- UI SETUP ------------------------------- #
 
 # window = Tk()
