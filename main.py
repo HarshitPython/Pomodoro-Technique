@@ -48,7 +48,7 @@ def start_timer():
 
 # ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
 
-# def count_down(count):
+def count_down(count):
 
 #     count_min = math.floor(count/60)
 #     count_sec = count % 60
