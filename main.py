@@ -70,7 +70,7 @@ def count_down(count):
             marks += "✔"
         tick_label.config(text=marks)
         
-# # ---------------------------- UI SETUP ------------------------------- #
+# ---------------------------- UI SETUP ------------------------------- #
 
 # window = Tk()
 # window.title("Pomodoro")
