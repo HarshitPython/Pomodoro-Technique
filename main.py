@@ -90,7 +90,7 @@ timer_text = canvas.create_text(100,130,text="00:00",fill="white",font=(FONT_NAM
 canvas.grid(row=1,column=1)
 
 
-# start_button = Button(text="START",highlightthickness=0,command = start_timer)
+start_button = Button(text="START",highlightthickness=0,command = start_timer)
 # start_button.grid(row=2,column=0)
 
 # tick_label = Label(fg=GREEN,bg=YELLOW)
