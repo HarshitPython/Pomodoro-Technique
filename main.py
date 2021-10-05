@@ -73,7 +73,7 @@ def count_down(count):
 # ---------------------------- UI SETUP ------------------------------- #
 
 window = Tk()
-# window.title("Pomodoro")
+window.title("Pomodoro")
 # window.configure(padx=100, pady=50,bg=YELLOW)
 
 
