@@ -91,7 +91,7 @@ start_button = Button(text="START",highlightthickness=0,command = start_timer)
 start_button.grid(row=2,column=0)
 
 tick_label = Label(fg=GREEN,bg=YELLOW)
-# tick_label.grid(row=3,column=1)
+tick_label.grid(row=3,column=1)
 
 # reset_button = Button(text="RESET",highlightthickness=0,command = reset_timer)
 # reset_button.grid(row=2,column=2)
