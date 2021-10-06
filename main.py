@@ -95,4 +95,4 @@ tick_label.grid(row=3,column=1)
 
 reset_button = Button(text="RESET",highlightthickness=0,command = reset_timer)
 reset_button.grid(row=2,column=2)
-# window.mainloop()
+window.mainloop()
